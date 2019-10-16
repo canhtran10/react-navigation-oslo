@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/react-navigation.svg)](https://badge.fury.io/js/react-navigation) [![codecov](https://codecov.io/gh/react-community/react-navigation/branch/master/graph/badge.svg)](https://codecov.io/gh/react-community/react-navigation) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactnavigation.org/docs/guides/contributors)
 
-React Navigation 1.x git a tabBarOptions.style bug on iPhone X
+React Navigation 1.x got a tabBarOptions.style bug on iPhone X
 https://reactnavigation.org/docs/en/1.x/getting-started.html
 https://github.com/react-navigation/react-navigation/issues/3882#issuecomment-378369303
 
