@@ -1,5 +1,6 @@
 # React Navigation
 React Navigation 1.x got a tabBarOptions.style bug on iPhone X
+
 https://reactnavigation.org/docs/en/1.x/getting-started.html
 
 https://github.com/react-navigation/react-navigation/issues/3882#issuecomment-378369303
